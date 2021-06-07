@@ -9,7 +9,7 @@
 # 𝚃𝙷𝙴 PETERCORDBOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-![PETERCORDBOT](https://t.me/diemmmmmmmmmm)
+![PETERCORDBOT](https://telegra.ph/file/2d2a335d26a0d33a1e385.jpg)
 [![PETERCORDBOT LOGO](https://telegra.ph/file/b52e42266a323cbe9f849.jpg)](https://t.me/TEAMSquadUserbotSupport)
 
 
