@@ -10,7 +10,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 ![PETERCORDBOT](https://t.me/diemmmmmmmmmm)
-![PETERCORDBOT LOGO](https://telegra.ph/file/b52e42266a323cbe9f849.jpg)](https://t.me/TEAMSquadUserbotSupport)
+[![PETERCORDBOT LOGO](https://telegra.ph/file/b52e42266a323cbe9f849.jpg)](https://t.me/TEAMSquadUserbotSupport)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
