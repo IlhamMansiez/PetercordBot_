@@ -27,7 +27,6 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 <h2 align="center"> <a href="https://github.com/IlhamMansiez/THE-PETERCORD">🎖 PETERCORD USERBOT 🎖</a></h2>
 
   <summary> • CREDITS👀 • </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">🎖HELLBOT 🎖</a></h2>
  One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 <h2 align="center"> <a href="https://github.com/iisgaurav">🎖 GAURAV 🎖</a></h2>
