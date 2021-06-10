@@ -4,10 +4,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $PETERCORD_REPO == "PETERCORDBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0lsaGFtTWFuc2llei9QZXRlcmNvcmRCb3QtLS9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0lsaGFtTWFuc2llei8tUGV0ZXJjb3JkQm90LS9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $PETERCORD_REPO == "PETERCORDBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0lsaGFtTWFuc2llei9QZXRlcmNvcmRCb3QtLS9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0lsaGFtTWFuc2llei8tUGV0ZXJjb3JkQm90LS9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $PETERCORD_REPO =~ $regex ]]
     then
         if [[ $PETERCORD_REPO_BRANCH ]]
@@ -17,7 +17,7 @@ _get_repolink () {
             echo "${PETERCORD_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0lsaGFtTWFuc2llei9QZXRlcmNvcmRCb3QtLS9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0lsaGFtTWFuc2llei8tUGV0ZXJjb3JkQm90LS9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
@@ -43,7 +43,7 @@ _set_bot () {
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m pyPetercord
+    python3 -m userbot
 }
 
 _set_bot
