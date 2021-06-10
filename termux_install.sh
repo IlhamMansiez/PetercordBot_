@@ -43,7 +43,7 @@ _set_bot () {
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m pyPetercord
+    python3 -m userbot
 }
 
 _set_bot
