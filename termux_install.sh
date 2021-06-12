@@ -42,7 +42,7 @@ _set_bot () {
                          ┗━━━━━━━━━━━━━━━━━━━ 
     "
 
-    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    python3 ../setup/updater.py ../requirements.txt requirements.txt ../requirements-dev.txt
     python3 -m plugins
 }
 
